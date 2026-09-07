@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HY2213-BB3A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-29-15:46:30)
+    (mountForm default
+        (footprintRef "SOT95P280X140-6N")
+        (spec "System")
+    )
+)

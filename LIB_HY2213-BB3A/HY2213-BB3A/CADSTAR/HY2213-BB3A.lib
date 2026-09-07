@@ -1,0 +1,18 @@
+.HY2213-BB3A :1 ;PMIC - Battery Management SOT-23-6 RoHS
+SOT95P280X140-6N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="VDD" 3="VSS" 4="NC_2" 5="NC_3" 6="OUT"
+*MXP 6
+*DFN HY2213-BB3A
+~!Manufacturer_Name (Hycon)
+~!Manufacturer_Part_Number (HY2213-BB3A)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/HYCON-Tech-HY2213-BB3A_C113632.pdf)
+~!Height (1.4mm)
+~!3D_Model (HY2213-BB3A)
+HY2213-BB3A
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 
