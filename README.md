@@ -27,5 +27,5 @@ balances the two cells with a bleed-resistor circuit.
 Full bill of materials: [`2S-BATTERY-CHARGER.csv`](2S-BATTERY-CHARGER.csv).
 
 <p align="center">
-  <img src="docs/2S-BATTERY-CHARGER.pdf" alt="2S-BATTERY-CHARGER schematic" width="600">
+  <img src="docs/2S-BATTERY-CHARGER.svg" alt="2S-BATTERY-CHARGER schematic" width="600">
 </p>
