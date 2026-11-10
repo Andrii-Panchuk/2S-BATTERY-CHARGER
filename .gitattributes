@@ -2,3 +2,7 @@
 Footprints.pretty/** linguist-vendored
 Symbols/** linguist-vendored
 LIB_HY2213-BB3A/** linguist-vendored
+Gerber/** linguist-vendored
+dfm/** linguist-vendored
+3D_Models/** linguist-vendored
+Datasheets/** linguist-documentation
