@@ -25,3 +25,7 @@ balances the two cells with a bleed-resistor circuit.
 | J2 | 1x03 pin header | Battery: VBAT, BAT_MID, GND |
 
 Full bill of materials: [`2S-BATTERY-CHARGER.csv`](2S-BATTERY-CHARGER.csv).
+
+<p align="center">
+  <img src="docs/2S-BATTERY-CHARGER.pdf" alt="2S-BATTERY-CHARGER schematic" width="600">
+</p>
