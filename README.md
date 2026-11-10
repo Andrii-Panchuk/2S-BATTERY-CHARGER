@@ -29,3 +29,5 @@ Full bill of materials: [`2S-BATTERY-CHARGER.csv`](2S-BATTERY-CHARGER.csv).
 <p align="center">
   <img src="docs/2S-BATTERY-CHARGER.svg" alt="2S-BATTERY-CHARGER schematic" width="600">
 </p>
+<p align="center"><em>2S battery charger: SS-52400-002, MP26123, CH224K, HY2213-BB3A and others components.</em></p>
+
