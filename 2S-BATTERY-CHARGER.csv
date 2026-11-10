@@ -1,0 +1,26 @@
+﻿Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C3,C8,C9,C11,C12",6,0.1u,,,,Capacitor_SMD:C_0805_2012Metric,~
+"C2,C4",2,1u,,,,Capacitor_SMD:C_0805_2012Metric,~
+C5,1,4.7u,,,,Capacitor_SMD:C_1206_3216Metric,~
+"C6,C7",2,2n2,,,,Capacitor_SMD:C_0603_1608Metric,~
+C10,1,22u,,,,Capacitor_SMD:C_1206_3216Metric,~
+"D1,D4",2,SS34,,,,Diode_SMD:D_SMA,https://www.vishay.com/docs/88751/ss32.pdf
+"D2,D3",2,LED,,,,LED_SMD:LED_0805_2012Metric,~
+F1,1,0ZCG0260FF2C,,,,Fuse:Fuse_1812_4532Metric,0ZCG0260FF2C
+"IC1,IC2",2,HY2213-BB3A,,,,Package_TO_SOT_SMD:SOT-23-6,https://datasheet.lcsc.com/szlcsc/HYCON-Tech-HY2213-BB3A_C113632.pdf
+J1,1,SS-52400-002,,,,Footprints:BELFUSE_SS-52400-002,
+J2,1,Conn_01x03_Pin,,,,Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,~
+L1,1,4u7,,,,Inductor_SMD:L_7.3x7.3_H3.5,~
+"Q1,Q2",2,AO3400A,,,,Package_TO_SOT_SMD:SOT-23,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf
+"R1,R3,R4,R10,R15",5,10k,,,,Resistor_SMD:R_0805_2012Metric,~
+R2,1,1k,,,,Resistor_SMD:R_0805_2012Metric,~
+"R5,R6",2,330,,,,Resistor_SMD:R_0805_2012Metric,~
+R7,1,750,,,,Resistor_SMD:R_0805_2012Metric,~
+R8,1,2k5,,,,Resistor_SMD:R_0805_2012Metric,~
+R9,1,100m,,,,Resistor_SMD:R_1206_3216Metric,~
+"R11,R12",2,100,,,,Resistor_SMD:R_0805_2012Metric,~
+"R13,R14",2,62,,,,Resistor_SMD:R_1206_3216Metric,~
+SW1,1,SW_Push,,,,Button_Switch_SMD:SW_SPST_TL3342,~
+U1,1,MP26123,,,,Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm,
+U2,1,CH224K,,,,Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm,https://www.wch.cn/downloads/file/301.html
+U3,1,USBLC6-2SC6,,,,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf

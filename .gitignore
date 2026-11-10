@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# KiCad: autosave, backups, locks, caches
+*-backups/
+_autosave-*
+~*
+*.lck
+fp-info-cache
+\#auto_saved_files\#
+
+# local KiCad UI state (changes on every open)
+*.kicad_prl
+
+# duplicate of the LIB_HY2213-BB3A folder
+LIB_HY2213-BB3A.zip

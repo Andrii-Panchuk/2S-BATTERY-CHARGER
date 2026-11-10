@@ -1,0 +1,4 @@
+*.kicad_* linguist-vendored
+Footprints.pretty/** linguist-vendored
+Symbols/** linguist-vendored
+LIB_HY2213-BB3A/** linguist-vendored
